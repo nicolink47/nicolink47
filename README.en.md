@@ -32,7 +32,7 @@ Passionate about **open-source solutions**, I have designed and administered **s
 
 | Item               | Link                                       |
 | ------------------ | ------------------------------------------ |
-| **CV (PDF)**       | [Download](CV-Nicolas-Picone-v3.pdf)       |
+| **Resume (PDF)**       | [Download](CV-Nicolas-Picone-v3.pdf)       |
 | **Technical Wiki** | [Visit](https://wiki.infotechservices.xyz) |
 
 ---

@@ -32,7 +32,7 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 ## 📂 Mon Portfolio
  | Élément               | Lien                                                                 |
  |-----------------------|----------------------------------------------------------------------|
- | **CV (PDF)**          | [Télécharger](cv/CV-Nicolas-Picone.pdf)                              |
+ | **CV (PDF)**          | [Télécharger](cv/CV-Nicolas-Picone-v3.pdf)                              |
  | **Wiki Technique**    | [Visiter](https://wiki.infotechservices.xyz)                        |
 
 ---

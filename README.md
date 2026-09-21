@@ -57,8 +57,3 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 📞 +33 6 27 72 94 15
 🌐 [Site perso](https://infotechservices.xyz)
 🔗 [LinkedIn](https://fr.linkedin.com/in/np56)
-
----
-## 📊 Statistiques GitHub
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolink47&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolink47&layout=compact&theme=radical)

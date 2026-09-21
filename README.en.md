@@ -1,59 +1,72 @@
-# Nicolas Picone  ENG  Technicien Systèmes & Réseaux
-**Administrateur Linux | Spécialiste Virtualisation & Sécurité**
+# Nicolas Picone   IT Systems & Network Technician
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-nicolink47-blue?style=flat&logo=github)](https://github.com/nicolink47)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nicolas%20Picone-blue?style=flat&logo=linkedin)](https://fr.linkedin.com/in/np56)
-[![Email Badge](https://img.shields.io/badge/Email-picone_nicolas@hotmail.com-red?style=flat&logo=gmail)](mailto:picone_nicolas@hotmail.com)
+**Linux Administrator | Virtualization & Security Specialist**
 
----
-
-## 👨‍💻 À propos de moi
-Je suis **technicien informatique spécialisé en administration systèmes, réseaux et virtualisation**, avec une **expertise en cybersécurité** (certifié **RS6092 en pentest**).
-Passionné par les **solutions open-source**, j’ai conçu et administré des **infrastructures Linux auto-hébergées**, déployé des **clouds privés sécurisés**, et automatisé des tâches via des **scripts Bash**.
+[![GitHub Badge](https://img.shields.io/badge/GitHub-nicolink47-blue?style=flat\&logo=github)](https://github.com/nicolink47)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nicolas%20Picone-blue?style=flat\&logo=linkedin)](https://fr.linkedin.com/in/np56)
+[![Email Badge](https://img.shields.io/badge/Email-picone_nicolas@hotmail.com-red?style=flat\&logo=gmail)](mailto:picone_nicolas@hotmail.com)
 
 ---
 
-## 📌 Mes Compétences
- | Catégorie          | Technologies/Outils                          |
- |--------------------|---------------------------------------------|
- | **Systèmes**       | Linux (Debian, Ubuntu, Centos, Arch), Windows Server, Active Directory |
- | **Réseaux**        | Switching, Routage, VLAN, DNS, Tunneling, Reverse Proxy, VPN (OpenVPN, WireGuard) |
- | **Sécurité**       | Pentest (RS6092), Iptables, ACL, Durcissement Linux, Cybersécurité |
- | **Virtualisation** | QEMU/KVM, libvirt, LXC, Docker    |
- | **Scripting**      | Bash, Python, PowerShell                     |
- | **Outils**         | Git, Nginx, Let’s Encrypt   |
+## 👨‍💻 About Me
+
+I am an **IT technician specializing in systems, network, and virtualization administration**, with **cybersecurity expertise** (certified **RS6092 in penetration testing**).
+Passionate about **open-source solutions**, I have designed and administered **self-hosted Linux infrastructures**, deployed **secure private clouds**, and automated tasks using **Bash scripts**.
 
 ---
 
-## 📂 Mon Portfolio
- | Élément               | Lien                                                                 |
- |-----------------------|----------------------------------------------------------------------|
- | **CV (PDF)**          | [Télécharger](CV-Nicolas-Picone-v3.pdf)                              |
- | **Wiki Technique**    | [Visiter](https://wiki.infotechservices.xyz)                        |
+## 📌 Skills
+
+| Category           | Technologies/Tools                                                                 |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| **Systems**        | Linux (Debian, Ubuntu, CentOS, Arch), Windows Server, Active Directory             |
+| **Networking**     | Switching, Routing, VLANs, DNS, Tunneling, Reverse Proxy, VPN (OpenVPN, WireGuard) |
+| **Security**       | Penetration Testing (RS6092), iptables, ACLs, Linux Hardening, Cybersecurity       |
+| **Virtualization** | QEMU/KVM, libvirt, LXC, Docker                                                     |
+| **Scripting**      | Bash, Python, PowerShell                                                           |
+| **Tools**          | Git, Nginx, Let’s Encrypt                                                          |
 
 ---
-## 💻 Mes Projets
-### 🖥️ Infrastructure Serveur Linux Auto-hébergée
-**Technologies** : Docker, Pi-hole, Unbound, Nginx, VPN, DNS
-**Description** : Mise en place d’une infrastructure conteneurisée pour héberger des services réseau (Pi-hole, Unbound, Nginx) et sécuriser les accès distants (VPN).
-**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps/)
 
-### ☁️ Déploiement et Sécurisation d’un Serveur Cloud
-**Technologies** : Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
-**Description** : Administration d’un cloud privé sécurisé avec chiffrement des communications (DNSCrypt, VPN) et outils de contournement de censure (Shadowsocks, Cloak).
+## 📂 Portfolio
 
-### 🔒 Conception d’une Plateforme de Virtualisation Sécurisée
-**Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
-**Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs (QubesOS).
-**Lien** : [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
+| Item               | Link                                       |
+| ------------------ | ------------------------------------------ |
+| **CV (PDF)**       | [Download](CV-Nicolas-Picone-v3.pdf)       |
+| **Technical Wiki** | [Visit](https://wiki.infotechservices.xyz) |
 
 ---
+
+## 💻 Projects
+
+### 🖥️ Self-Hosted Linux Server Infrastructure
+
+**Technologies**: Docker, Pi-hole, Unbound, Nginx, VPN, DNS
+**Description**: Set up a containerized infrastructure to host network services (Pi-hole, Unbound, Nginx) and secure remote access (VPN).
+**Link**: [Full Documentation](https://wiki.infotechservices.xyz/vps/)
+
+### ☁️ Cloud Server Deployment & Hardening
+
+**Technologies**: Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
+**Description**: Administration of a secure private cloud with encrypted communications (DNSCrypt, VPN) and censorship circumvention tools (Shadowsocks, Cloak).
+
+### 🔒 Secure Virtualization Platform Design
+
+**Technologies**: Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
+**Description**: Built and configured a machine focused on virtualization and security, using an open-source BIOS (Coreboot) and VM isolation (QubesOS).
+**Link**: [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
+
+---
+
 ## 🏆 Certifications
-- **RS6092 — Réaliser des tests d’intrusion (Pentest)** | [Cyberini](https://cyberini.com/) | Novembre 2024
+
+* **RS6092 — Penetration Testing** | [Cyberini](https://cyberini.com/) | November 2024
 
 ---
+
 ## 📞 Contact
+
 📧 [picone_nicolas@hotmail.com](mailto:picone_nicolas@hotmail.com)
 📞 +33 6 27 72 94 15
-🌐 [Site perso](https://infotechservices.xyz)
+🌐 [Personal Website](https://infotechservices.xyz)
 🔗 [LinkedIn](https://fr.linkedin.com/in/np56)

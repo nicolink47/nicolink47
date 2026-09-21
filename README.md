@@ -5,7 +5,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-nicolink47-blue?style=flat&logo=github)](https://github.com/nicolink47)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nicolas%20Picone-blue?style=flat&logo=linkedin)](https://fr.linkedin.com/in/np56)
 [![Email Badge](https://img.shields.io/badge/Email-picone_nicolas@hotmail.com-red?style=flat&logo=gmail)](mailto:picone_nicolas@hotmail.com)
-[![Phone Badge](https://img.shields.io/badge/Phone-0627729415-green?style=flat&logo=phone)](tel:+33627729415)
+[![Phone Badge](https://img.shields.io/badge/Phone-0627729415-green?style=flat)]
 
 ---
 

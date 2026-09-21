@@ -9,7 +9,7 @@
 
 ## 👨‍💻 À propos de moi
 Je suis **technicien informatique spécialisé en administration systèmes, réseaux et virtualisation**, avec une **expertise en cybersécurité** (certifié **RS6092 en pentest**).
-Passionné par les **solutions open-source**, j’ai conçu et administré des **infrastructures Linux auto-hébergées**, déployé des **clouds privés sécurisés**, et automatisé des tâches via des **scripts Bash/Python**.
+Passionné par les **solutions open-source**, j’ai conçu et administré des **infrastructures Linux auto-hébergées**, déployé des **clouds privés sécurisés**, et automatisé des tâches via des **scripts Bash**.
 
 ---
 

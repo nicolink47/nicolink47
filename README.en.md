@@ -43,12 +43,13 @@ Passionate about **open-source solutions**, I have designed and administered **s
 
 **Technologies**: Docker, Pi-hole, Unbound, Nginx, VPN, DNS
 **Description**: Set up a containerized infrastructure to host network services (Pi-hole, Unbound, Nginx) and secure remote access (VPN).
-**Link**: [Full Documentation](https://wiki.infotechservices.xyz/vps/)
+
 
 ### ☁️ Cloud Server Deployment & Hardening
 
 **Technologies**: Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
 **Description**: Administration of a secure private cloud with encrypted communications (DNSCrypt, VPN) and censorship circumvention tools (Shadowsocks, Cloak).
+**Link**: [Full Documentation](https://wiki.infotechservices.xyz/vps/)
 
 ### 🔒 Secure Virtualization Platform Design
 

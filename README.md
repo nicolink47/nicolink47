@@ -1,86 +1,78 @@
-- 👋 Hi, I’m @nicolink47
-- 👀 I’m interested in Linux, network and other IT stuffs
+# Nicolas Picone   Technicien Systèmes & Réseaux
+**Administrateur Linux | Spécialiste Virtualisation & Sécurité**
 
-  You can check my [website](https://infotechservices.xyz) and [personnal wiki](https://wiki.infotechservices.xyz)
-
-# Nicolas Picone   Resume
-
----
-## 📌 Profil
-Technicien informatique spécialisé en **administration systèmes, réseaux et virtualisation**, avec une **expertise en sécurité (VPN, pare-feu, durcissement Linux)** et **automatisation (Bash, Python, Microsoft Intune)**.
-
-**Contrats acceptés** : CDI, CDD, Intérim, Freelance
-**Mobilité** : Dordogne / Agglomération de Bordeaux / Ouvert au Télétravail
+[![GitHub Badge](https://img.shields.io/badge/GitHub-nicolink47-blue?style=flat&logo=github)](https://github.com/nicolink47)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nicolas%20Picone-blue?style=flat&logo=linkedin)](https://fr.linkedin.com/in/np56)
+[![Email Badge](https://img.shields.io/badge/Email-picone_nicolas@hotmail.com-red?style=flat&logo=gmail)](mailto:picone_nicolas@hotmail.com)
 
 ---
-## 💼 Expériences Professionnelles
 
-### Technicien Informatique — Mission Freelance
-**Fondation John Bost | La Force, 24130 | Mars 2026 (1 mois)**
-- Déploiement, installation et configuration de **220 ordinateurs portables avec Microsoft Intune** en **2 semaines**.
-- **Automatisation des mises à jour**, réduisant le temps de maintenance de **40%**.
+## 👨‍💻 À propos de moi
+Je suis **technicien informatique spécialisé en administration systèmes, réseaux et virtualisation**, avec une **expertise en cybersécurité** (certifié **RS6092 en pentest**).
+Passionné par les **solutions open-source**, j’ai conçu et administré des **infrastructures Linux auto-hébergées**, déployé des **clouds privés sécurisés**, et automatisé des tâches via des **scripts Bash/Python**.
 
-### AED TICE — Support Informatique
-**Collège Jean Rostand, Nice | Sept 2021 - Août 2024**
-- Gestion d’un **parc de 200 appareils** pour **500 utilisateurs** (PC, baies, photocopieurs).
-- **Disponibilité réseau de 99,9%** et **réduction de 30% des tickets de support** grâce à des scripts Bash/Python.
-- Formation des enseignants à l’utilisation des outils numériques.
-
-### Technicien Intérimaire
-**Expectra (Computacenter) | Nice | Mars 2021 - Juin 2021**
-- Installation et configuration de **postes pour les agents de la Métropole de Nice** via solutions internes.
-
-**Expectra (Econocom) | Nice | Oct 2020 - Nov 2020**
-- Installation de **postes informatiques**.
-
-### Technicien Informatique
-**Solutions Informatiques Côtes d’Azur | Nice | Déc 2019 - Fév 2020**
-- Interventions et support clients.
-- **Administration serveurs** et création d’un **serveur OpenVPN**.
+📍 **Localisation** : Bergerac, Dordogne (24)
+🌍 **Mobilité** : Dordogne / Bordeaux / Télétravail
+💼 **Contrats** : CDI, CDD, Intérim, Freelance
 
 ---
-## 🎓 Formation
-- **BTS SIO Option A SISR** (Solutions d’Infrastructure, Systèmes et Réseaux)
-  **UFIP Business School, Nice | 2018 - 2019**
-- **Bac STI2D Informatique**
-  **Lycée Les Eucalyptus, Nice | 2014 - 2017**
+
+## 📌 Mes Compétences
+ | Catégorie          | Technologies/Outils                          |
+ |--------------------|---------------------------------------------|
+ | **Systèmes**       | Linux (Debian, Ubuntu, Artix), Windows Server, Active Directory |
+ | **Réseaux**        | Switching, Routage, VLAN, DNS, Tunneling, Reverse Proxy, VPN (OpenVPN, WireGuard) |
+ | **Sécurité**       | Pentest (RS6092), Iptables, ACL, Durcissement Linux, Cybersécurité |
+ | **Virtualisation** | QEMU/KVM, LXC, Docker, Proxmox, QubesOS      |
+ | **Scripting**      | Bash, Python, PowerShell                     |
+ | **Outils**         | Git, Nginx, Let’s Encrypt, Microsoft Intune   |
+
+---
+
+## 📂 Mon Portfolio
+ | Élément               | Lien                                                                 |
+ |-----------------------|----------------------------------------------------------------------|
+ | **CV (PDF)**          | [Télécharger](cv/CV-Nicolas-Picone.pdf)                              |
+ | **CV (Markdown)**     | [Lire](cv/CV-Nicolas-Picone.md)                                      |
+ | **Wiki Technique**    | [Visiter](https://wiki.infotechservices.xyz)                        |
+ | **Projets**           | Voir mes projets                                    |
+ | **Articles**          | [Lire mes articles](https://wiki.infotechservices.xyz/articles)    |
+
+---
+## 💻 Mes Projets
+### 🖥️ [Infrastructure Serveur Linux Auto-hébergée](projets/infrastructure-linux.md)
+**Technologies** : Docker, Pi-hole, Unbound, Nginx, VPN, DNS
+**Description** : Mise en place d’une infrastructure conteneurisée pour héberger des services réseau (Pi-hole, Unbound, Nginx) et sécuriser les accès distants (VPN).
+**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps)
+
+### ☁️ [Déploiement et Sécurisation d’un Serveur Cloud](projets/cloud-prive.md)
+**Technologies** : Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
+**Description** : Administration d’un cloud privé sécurisé avec chiffrement des communications (DNSCrypt, VPN) et outils de contournement de censure (Shadowsocks, Cloak).
+**Lien** : [Guide de déploiement](https://wiki.infotechservices.xyz/cloud-prive)
+
+### 🔒 [Conception d’une Plateforme de Virtualisation Sécurisée](https://wiki.infotechservices.xyz/kvm)
+**Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
+**Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs (QubesOS).
+**Lien** : [Documentation](https://wiki.infotechservices.xyz/kvm)
+
+---
+## 📝 Mes Articles Techniques *(sur mon wiki)*
+- [Durcissement d’un serveur Linux en 10 étapes](https://wiki.infotechservices.xyz/articles/securite/durcissement-serveur)
+- [Configurer un VPN OpenVPN pas à pas](https://wiki.infotechservices.xyz/articles/securite/vpn-openvpn)
+- [QEMU/KVM : Guide pour débutants](https://wiki.infotechservices.xyz/articles/virtualisation/qemu-kvm-guide)
 
 ---
 ## 🏆 Certifications
-- **RS6092 — Réaliser des tests d’intrusion (Pentest)**
-  **Cyberini | Novembre 2024**
-  *Certification reconnue pour évaluer et sécuriser les infrastructures contre les cyberattaques.*
-
----
-## 🛠️ Compétences Techniques
-
-### Administration Systèmes
-Linux (Debian, Ubuntu, Artix), Windows Server, Active Directory, LDAP
-
-### Réseaux
-Switching, Routage, VLAN, Trunk, DNS, Tunneling, Reverse Proxy, VPN (OpenVPN, WireGuard)
-
-### Sécurité
-Pentest (RS6092), Iptables, ACL, Durcissement Linux, Cybersécurité, Gestion des vulnérabilités
-
-### Virtualisation & Conteneurs
-QEMU/KVM, LXC, Docker, Proxmox, QubesOS
-
-### Scripting & Automatisation
-Bash, Python, PowerShell, Ansible (débutant)
-
-### Outils
-Git, Nginx, Let’s Encrypt, Microsoft Intune
+- **RS6092 — Réaliser des tests d’intrusion (Pentest)** | [Cyberini](https://cyberini.com/) | Novembre 2024
 
 ---
 ## 📞 Contact
 📧 [picone_nicolas@hotmail.com](mailto:picone_nicolas@hotmail.com)
 📞 +33 6 27 72 94 15
 🌐 [Site perso](https://infotechservices.xyz)
-🐙 [GitHub](https://github.com/nicolink47)
 🔗 [LinkedIn](https://fr.linkedin.com/in/np56)
 
-<!---
-nicolink47/nicolink47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+## 📊 Statistiques GitHub
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolink47&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolink47&layout=compact&theme=radical)

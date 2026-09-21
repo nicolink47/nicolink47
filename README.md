@@ -37,16 +37,16 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 
 ---
 ## 💻 Mes Projets
-### 🖥️ [Infrastructure Serveur Linux Auto-hébergée](projets/infrastructure-linux.md)
+### 🖥️ Infrastructure Serveur Linux Auto-hébergée
 **Technologies** : Docker, Pi-hole, Unbound, Nginx, VPN, DNS
 **Description** : Mise en place d’une infrastructure conteneurisée pour héberger des services réseau (Pi-hole, Unbound, Nginx) et sécuriser les accès distants (VPN).
 **Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps/)
 
-### ☁️ [Déploiement et Sécurisation d’un Serveur Cloud](projets/cloud-prive.md)
+### ☁️ Déploiement et Sécurisation d’un Serveur Cloud
 **Technologies** : Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
 **Description** : Administration d’un cloud privé sécurisé avec chiffrement des communications (DNSCrypt, VPN) et outils de contournement de censure (Shadowsocks, Cloak).
 
-### 🔒 [Conception d’une Plateforme de Virtualisation Sécurisée](https://wiki.infotechservices.xyz/kvm)
+### 🔒 Conception d’une Plateforme de Virtualisation Sécurisée
 **Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
 **Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs (QubesOS).
 **Lien** : [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)

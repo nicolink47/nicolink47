@@ -45,7 +45,7 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 
 **Description** : Administration d’un cloud privé sécurisé avec chiffrement des communications (DNSCrypt, VPN) et outils de contournement de censure (Shadowsocks, Cloak).
 
-**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps/)
+**Lien** : [Documentation](https://wiki.infotechservices.xyz/vps/)
 
 ### 🔒 Conception d’une Plateforme de Virtualisation Sécurisée
 **Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux

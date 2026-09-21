@@ -48,9 +48,9 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 **Lien** : [Documentation](https://wiki.infotechservices.xyz/vps/)
 
 ### 🔒 Conception d’une Plateforme de Virtualisation Sécurisée
-**Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
+**Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, Artix Linux
 
-**Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs (QubesOS).
+**Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs.
 
 **Lien** : [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
 

@@ -33,33 +33,23 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
  | Élément               | Lien                                                                 |
  |-----------------------|----------------------------------------------------------------------|
  | **CV (PDF)**          | [Télécharger](cv/CV-Nicolas-Picone.pdf)                              |
- | **CV (Markdown)**     | [Lire](cv/CV-Nicolas-Picone.md)                                      |
  | **Wiki Technique**    | [Visiter](https://wiki.infotechservices.xyz)                        |
- | **Projets**           | Voir mes projets                                    |
- | **Articles**          | [Lire mes articles](https://wiki.infotechservices.xyz/articles)    |
 
 ---
 ## 💻 Mes Projets
 ### 🖥️ [Infrastructure Serveur Linux Auto-hébergée](projets/infrastructure-linux.md)
 **Technologies** : Docker, Pi-hole, Unbound, Nginx, VPN, DNS
 **Description** : Mise en place d’une infrastructure conteneurisée pour héberger des services réseau (Pi-hole, Unbound, Nginx) et sécuriser les accès distants (VPN).
-**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps)
+**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/Mon VPS/)
 
 ### ☁️ [Déploiement et Sécurisation d’un Serveur Cloud](projets/cloud-prive.md)
 **Technologies** : Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
 **Description** : Administration d’un cloud privé sécurisé avec chiffrement des communications (DNSCrypt, VPN) et outils de contournement de censure (Shadowsocks, Cloak).
-**Lien** : [Guide de déploiement](https://wiki.infotechservices.xyz/cloud-prive)
 
 ### 🔒 [Conception d’une Plateforme de Virtualisation Sécurisée](https://wiki.infotechservices.xyz/kvm)
 **Technologies** : Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
 **Description** : Assemblage et configuration d’une machine orientée virtualisation et sécurité, avec BIOS open-source (Coreboot) et isolation des VMs (QubesOS).
-**Lien** : [Documentation](https://wiki.infotechservices.xyz/kvm)
-
----
-## 📝 Mes Articles Techniques *(sur mon wiki)*
-- [Durcissement d’un serveur Linux en 10 étapes](https://wiki.infotechservices.xyz/articles/securite/durcissement-serveur)
-- [Configurer un VPN OpenVPN pas à pas](https://wiki.infotechservices.xyz/articles/securite/vpn-openvpn)
-- [QEMU/KVM : Guide pour débutants](https://wiki.infotechservices.xyz/articles/virtualisation/qemu-kvm-guide)
+**Lien** : [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
 
 ---
 ## 🏆 Certifications

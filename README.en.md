@@ -73,6 +73,6 @@ Passionate about **open-source solutions**, I have designed and administered **s
 ## 📞 Contact
 
 📧 [picone_nicolas@hotmail.com](mailto:picone_nicolas@hotmail.com)
-📞 [\+33 6 27 72 94 15](tel:+33627729415)
+📞 [06 27 72 94 15](tel:+33627729415)
 🌐 [Personal Website](https://infotechservices.xyz)
 🔗 [LinkedIn](https://fr.linkedin.com/in/np56)

@@ -16,12 +16,12 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 ## 📌 Mes Compétences
  | Catégorie          | Technologies/Outils                          |
  |--------------------|---------------------------------------------|
- | **Systèmes**       | Linux (Debian, Ubuntu, Artix), Windows Server, Active Directory |
+ | **Systèmes**       | Linux (Debian, Ubuntu, Centos, Arch), Windows Server, Active Directory |
  | **Réseaux**        | Switching, Routage, VLAN, DNS, Tunneling, Reverse Proxy, VPN (OpenVPN, WireGuard) |
  | **Sécurité**       | Pentest (RS6092), Iptables, ACL, Durcissement Linux, Cybersécurité |
- | **Virtualisation** | QEMU/KVM, LXC, Docker, Proxmox, QubesOS      |
+ | **Virtualisation** | QEMU/KVM, libvirt, LXC, Docker    |
  | **Scripting**      | Bash, Python, PowerShell                     |
- | **Outils**         | Git, Nginx, Let’s Encrypt, Microsoft Intune   |
+ | **Outils**         | Git, Nginx, Let’s Encrypt,   |
 
 ---
 

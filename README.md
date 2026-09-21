@@ -11,10 +11,6 @@
 Je suis **technicien informatique spécialisé en administration systèmes, réseaux et virtualisation**, avec une **expertise en cybersécurité** (certifié **RS6092 en pentest**).
 Passionné par les **solutions open-source**, j’ai conçu et administré des **infrastructures Linux auto-hébergées**, déployé des **clouds privés sécurisés**, et automatisé des tâches via des **scripts Bash/Python**.
 
-📍 **Localisation** : Bergerac, Dordogne (24)
-🌍 **Mobilité** : Dordogne / Bordeaux / Télétravail
-💼 **Contrats** : CDI, CDD, Intérim, Freelance
-
 ---
 
 ## 📌 Mes Compétences

@@ -56,9 +56,9 @@ Passionate about **open-source solutions**, I have designed and administered **s
 
 ### 🔒 Secure Virtualization Platform Design
 
-**Technologies**: Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
+**Technologies**: Coreboot, QEMU/KVM, LXC, Firewall, Artix Linux
 
-**Description**: Built and configured a machine focused on virtualization and security, using an open-source BIOS (Coreboot) and VM isolation (QubesOS).
+**Description**: Built and configured a machine focused on virtualization and security, using an open-source BIOS (Coreboot) and VM isolation.
 
 **Link**: [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
 

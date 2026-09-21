@@ -40,7 +40,7 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
 ### 🖥️ [Infrastructure Serveur Linux Auto-hébergée](projets/infrastructure-linux.md)
 **Technologies** : Docker, Pi-hole, Unbound, Nginx, VPN, DNS
 **Description** : Mise en place d’une infrastructure conteneurisée pour héberger des services réseau (Pi-hole, Unbound, Nginx) et sécuriser les accès distants (VPN).
-**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/Mon VPS/)
+**Lien** : [Documentation complète](https://wiki.infotechservices.xyz/vps/)
 
 ### ☁️ [Déploiement et Sécurisation d’un Serveur Cloud](projets/cloud-prive.md)
 **Technologies** : Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak

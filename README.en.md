@@ -42,19 +42,24 @@ Passionate about **open-source solutions**, I have designed and administered **s
 ### 🖥️ Self-Hosted Linux Server Infrastructure
 
 **Technologies**: Docker, Pi-hole, Unbound, Nginx, VPN, DNS
+
 **Description**: Set up a containerized infrastructure to host network services (Pi-hole, Unbound, Nginx) and secure remote access (VPN).
 
 
 ### ☁️ Cloud Server Deployment & Hardening
 
 **Technologies**: Nextcloud, DNSCrypt, VPN, Nginx, Let’s Encrypt, Shadowsocks, Cloak
+
 **Description**: Administration of a secure private cloud with encrypted communications (DNSCrypt, VPN) and censorship circumvention tools (Shadowsocks, Cloak).
+
 **Link**: [Full Documentation](https://wiki.infotechservices.xyz/vps/)
 
 ### 🔒 Secure Virtualization Platform Design
 
 **Technologies**: Coreboot, QEMU/KVM, LXC, Firewall, QubesOS, Artix Linux
+
 **Description**: Built and configured a machine focused on virtualization and security, using an open-source BIOS (Coreboot) and VM isolation (QubesOS).
+
 **Link**: [Documentation](https://wiki.infotechservices.xyz/Ordinateur_sécurisé/)
 
 ---

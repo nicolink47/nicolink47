@@ -52,7 +52,7 @@ Passionate about **open-source solutions**, I have designed and administered **s
 
 **Description**: Administration of a secure private cloud with encrypted communications (DNSCrypt, VPN) and censorship circumvention tools (Shadowsocks, Cloak).
 
-**Link**: [Full Documentation](https://wiki.infotechservices.xyz/vps/)
+**Link**: [Documentation](https://wiki.infotechservices.xyz/vps/)
 
 ### 🔒 Secure Virtualization Platform Design
 

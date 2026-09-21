@@ -21,7 +21,7 @@ Passionné par les **solutions open-source**, j’ai conçu et administré des *
  | **Sécurité**       | Pentest (RS6092), Iptables, ACL, Durcissement Linux, Cybersécurité |
  | **Virtualisation** | QEMU/KVM, libvirt, LXC, Docker    |
  | **Scripting**      | Bash, Python, PowerShell                     |
- | **Outils**         | Git, Nginx, Let’s Encrypt,   |
+ | **Outils**         | Git, Nginx, Let’s Encrypt   |
 
 ---
 
